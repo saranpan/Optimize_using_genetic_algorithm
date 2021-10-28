@@ -28,7 +28,7 @@ Most of the healthy foods product have a high number in fiber, but also high in 
 
 Here's how we solve this problem given these 8 foods using Genetic algorithm, see how we have done it in [This Google Colab notebook](https://colab.research.google.com/drive/1rd343DhzGwCBlFTCBJoENMps0vnWplNk?usp=sharing)
 
-Acknowledgement : 
+## Acknowledgement : 
 [Dataset : Nutritional information for raw fruits, vegetables, and seafood.](https://colab.research.google.com/drive/1rd343DhzGwCBlFTCBJoENMps0vnWplNk?usp=sharing)
 
 
