@@ -39,4 +39,3 @@ Here's how we solve this problem given these 8 foods using Genetic algorithm, se
 
 Apache 2.0
 
-**Free Software, Hell Yeah!**
