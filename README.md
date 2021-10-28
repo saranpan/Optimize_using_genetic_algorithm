@@ -2,7 +2,7 @@
 ---
 ### Maximize diet fiber, but limit sugar consumption
 
-[![N|Solid](https://thumbs.dreamstime.com/b/diet-healthy-food-lifestyle-health-concept-sport-exercise-equipment-workout-and-gym-background-nutrition-detox-salad-f-179855057.jpg)]
+![N|Solid](https://thumbs.dreamstime.com/b/diet-healthy-food-lifestyle-health-concept-sport-exercise-equipment-workout-and-gym-background-nutrition-detox-salad-f-179855057.jpg)
 
 ![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)
 
