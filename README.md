@@ -26,7 +26,7 @@ Most of the healthy foods product have a high number in fiber, but also high in 
 > However, you only can hold for **8 foods** to make a meal for some reason, 
 > also you don't need to consume sugar exceed than **25g** 
 
-Here's how we solve this problem given these 8 foods using Genetic algorithm, see how we have done it in [This Google Colab notebook](https://colab.research.google.com/drive/1rd343DhzGwCBlFTCBJoENMps0vnWplNk?usp=sharing)
+Here's how we solve this problem given these 8 foods using Genetic algorithm, see how we have done it in [This Google Colab notebook](https://colab.research.google.com/drive/1tb22xAVBvniDQQbc77U_zNHTSoxZTQrx?usp=sharing)
 
 ---
 
