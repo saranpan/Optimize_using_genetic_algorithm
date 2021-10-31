@@ -31,7 +31,7 @@ Here's how we solve this problem given these 8 foods using Genetic algorithm, se
 ---
 
 ## Acknowledgement : 
-[Dataset : Nutritional information for raw fruits, vegetables, and seafood.](https://colab.research.google.com/drive/1rd343DhzGwCBlFTCBJoENMps0vnWplNk?usp=sharing)
+[Dataset : Nutritional information for raw fruits, vegetables, and seafood.]( https://data.world/adamhelsinger/food-nutrition-information/workspace/file?filename=NutritionalFacts_Fruit_Vegetables_Seafood.csv)
 
 
 
